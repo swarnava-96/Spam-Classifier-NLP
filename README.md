@@ -10,3 +10,6 @@ https://spamclassifier-sm.el.r.appspot.com
 
 ![image](https://user-images.githubusercontent.com/75041273/122086896-ca682e80-ce21-11eb-947c-195d87a36381.png)
 
+Currently app disabled,since GCP is chargeable.
+
+![Screenshot (9)](https://user-images.githubusercontent.com/75041273/122087769-ba048380-ce22-11eb-9de1-9e813ef012c6.png)
