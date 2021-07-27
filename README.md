@@ -41,7 +41,7 @@ Currently app disabled,since GCP is chargeable.
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
 [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
-https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+[https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white]
 
 ## Further Changes to be Done
 
