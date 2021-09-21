@@ -4,7 +4,8 @@
 This is a flask app that predicts whether a text message is "Spam" or not spam("Ham").
 
 ## Project Description:
-Text pre-processing was performed by removing stop words from the data and Stemming was performed. Bag of Words was used to convert the words into vectors. Multinomial Naïve Bayes was used for model building after testing with other classification algorithms. Model was evaluated using accuracy score, confusion metrics and classification report. 
+Text pre-processing was performed by removing stop words from the data and Stemming was performed. Bag of Words was used to convert the words into vectors. Multinomial Naïve Bayes was used for model building after testing with other classification algorithms. Model was evaluated using accuracy score, confusion metrics and classification report.
+Model gave an accuracy of 98.5% on the test data and the number of False positives and False negatives were also very less. We can say that the model performed really well.
 
 ## Installation
 The Code is written in Python 3.7.3 If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
